@@ -53,6 +53,10 @@ Pieces drop from the top of the board two at a time: gears, gems, crescent moons
 | ![Two players](images/03_partita_3.jpg) | ![Two players: end of the match](images/03_partita_4.jpg) |
 | ![Pause menu](images/04_dopo_esc.jpg) | |
 
+## AI disclosure
+
+Generative AI tools were used in the development of this game and in the writing of this page.
+
 ## System requirements
 
 | | Minimum | Recommended |
@@ -111,6 +115,10 @@ I pezzi scendono dall'alto due alla volta: ingranaggi, gemme, mezzelune, libellu
 - **Giocatore 1**: `W` `A` `S` `D` + `Spazio`, oppure gamepad 1.
 - **Giocatore 2**: frecce + `Invio`, oppure gamepad 2.
 - `Esc` apre il menu di pausa (riprendi, riavvia incontro, cambia musica, menu principale).
+
+## Uso dell'intelligenza artificiale
+
+Nello sviluppo di questo gioco e nella scrittura di questa pagina sono stati usati strumenti di intelligenza artificiale generativa.
 
 ## Requisiti di sistema
 
